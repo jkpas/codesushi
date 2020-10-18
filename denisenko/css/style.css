@@ -73,9 +73,9 @@ input:active, textarea:active {
   font-style: normal;
 }
 * {
-  color: #000000;
+  color: #000450;
   font-family: "CenturyGothicRegular", sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   box-sizing: border-box;
 }
 
@@ -85,7 +85,7 @@ h1, h2 {
 
 .center {
   max-width: 960px;
-  margin: 0 auto;
+  margin: 1 auto;
   position: relative;
 }
 
@@ -104,7 +104,7 @@ h1, h2 {
 }
 
 .header {
-  padding: 25px 0 15px;
+  padding: 35px 0 15px;
   clear: both;
   overflow: hidden;
 }
